@@ -1,5 +1,5 @@
 # &Partner's new project intake framework
-In an effort to standardize the work we do, and who we work with, we've developed a framework to enable us to foster transparency, but also to ensure that we do not stray from our goals, vision, and mission.
+In an effort to standardize the work we do, and who we work with, we've developed a framework to enable us to foster transparency, but also to ensure that we do not stray from our goals, vision, and mission. [Download the framework](https://github.com/prtnrs/intake-framework/blob/master/%26Partners_Framework%20for%20Choosing%20Project%20Partners.pdf)
 
 ## Step 1: Intake framework
 ### Section 1: Business information
