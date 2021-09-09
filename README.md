@@ -1,5 +1,7 @@
-# &Partner's new project intake framework
-In an effort to standardize the work we do, we developed a framework that tells us whether we are engaging with high-quality partners and projects. The framework not only fosters transparency, but also ensures that we do not stray from our goals, vision, and mission. Download the framework. [Download the framework](https://github.com/prtnrs/intake-framework/blob/master/%26Partners_Framework%20for%20Choosing%20Project%20Partners.pdf)
+Coforma's new project intake framework
+In an effort to standardize the work we do, we developed a framework that tells us whether we are engaging with high-quality partners and projects. The framework not only fosters transparency, but also ensures that we do not stray from our goals, vision, and mission.
+
+_Note: Updates pending_
 
 ## Step 1: Intake framework
 ### Section 1: Business information
@@ -64,7 +66,7 @@ Requires a total of 28 points out of 39 points for a successful intake
   - Innovative (1) 
 
 - Capabilities (X/11) [Check all that apply]
-  - Client believes &Partners fills an expertise gap? (3)
+  - Client believes Coforma fills an expertise gap? (3)
   - Client wants to invest in building an internal team? (3)
   - Client has a dedicated team to work with us? (3)
   - Client is able to provide access to all stakeholders? (2)
